@@ -41,13 +41,6 @@ To test how output current changes with different Vin values, add this directive
 
 This will automatically simulate for Vin = 1 V, 2 V, 3 V, 4 V, and 5 V.
 
-📊 Achieved Results vs Target Specifications
-Parameter	Target	Achieved (Sim)	Comments
-Output Current	5 mA	4.9–5.4 mA	Stable and accurate
-Load Range	1–10 kΩ	Achieved	Regulation maintained
-Frequency Range	1–200 Hz	Achieved	Minimal transient spikes
-Accuracy	±2%	±3–5%	Within tolerance
-
 **⚡ Simulation Highlights**
 
 Constant Current Behavior:
